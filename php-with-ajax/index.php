@@ -1,7 +1,7 @@
 <?php require "header.php" ?>
 <div class="head">
     <h1>Simple To Do List</h1>
-    <span>PHP</span>
+    <span>PHP with Ajax </span>
     <br>
     <a href="new.php" form="new" class="btn btn-default btn-xs">
     <i class="fa fa-plus"></i>
