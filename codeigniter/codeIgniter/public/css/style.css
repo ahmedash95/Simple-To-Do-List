@@ -1,0 +1,69 @@
+html , body { margin: 0; padding: 0 ; background-color: #f4f4f4 }
+a ,a:hover{ text-decoration: none}
+.content {
+    background-color: #fff;
+    width: 40%;
+    margin: 5% auto;
+    min-height: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.content .head {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed #ddd;
+}
+.content .head h1 {
+    display: inline-block;
+    color: #ccc;
+    text-shadow: 2px 1px 3px #000;        
+}
+.content .head span:before { content: " - " }
+.content .head span {
+    color: #000;
+}
+.content .body {
+    width 90%;
+    margin: auto;
+}
+.content .body ul {
+    list-style-type: none;
+}
+.content .body ul li {
+    width: 95%;
+    margin: 4px 0;
+    border-bottom: 1px dashed #ddd;
+}
+.content .body ul li:last-child {
+    border-bottom: 0;
+}
+.content .body .done {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.content .body ul li span{
+    float: right;
+}
+.content  form{
+    margin: auto;
+}
+.content  label, .content  form input[type="text"]{
+    display: block ;
+    font-weight: normal;
+    width: 80%;
+    margin-left: 40px;
+}
+.content .error {
+    color: red;
+    width: 80%;
+    margin: auto;
+}
+.content .footer {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px dashed #ddd;
+}
