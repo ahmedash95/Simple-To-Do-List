@@ -9,7 +9,7 @@
 
 
 ##### Facebook Account = fb.com/ahmedash95
-##### Twitter Account = twiiter.com/ahmedash95
+##### Twitter Account = twitter.com/ahmedash95
 ##### Ask Account 	= ask.fm/ahmedash95
 
 it's my pleasure to contact with me and give me your feedback about this simple project
